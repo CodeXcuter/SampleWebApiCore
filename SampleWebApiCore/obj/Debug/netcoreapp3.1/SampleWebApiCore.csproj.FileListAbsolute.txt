@@ -1,0 +1,9 @@
+C:\Github\SampleWebApiCore\SampleWebApiCore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Github\SampleWebApiCore\SampleWebApiCore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Github\SampleWebApiCore\SampleWebApiCore\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Github\SampleWebApiCore\SampleWebApiCore\obj\Debug\netcoreapp3.1\SampleWebApiCore.csprojAssemblyReference.cache
+C:\Github\SampleWebApiCore\SampleWebApiCore\obj\Debug\netcoreapp3.1\SampleWebApiCore.AssemblyInfoInputs.cache
+C:\Github\SampleWebApiCore\SampleWebApiCore\obj\Debug\netcoreapp3.1\SampleWebApiCore.AssemblyInfo.cs
+C:\Github\SampleWebApiCore\SampleWebApiCore\obj\Debug\netcoreapp3.1\SampleWebApiCore.RazorTargetAssemblyInfo.cache
+C:\Github\SampleWebApiCore\SampleWebApiCore\obj\Debug\netcoreapp3.1\staticwebassets\SampleWebApiCore.StaticWebAssets.Manifest.cache
+C:\Github\SampleWebApiCore\SampleWebApiCore\obj\Debug\netcoreapp3.1\staticwebassets\SampleWebApiCore.StaticWebAssets.xml
